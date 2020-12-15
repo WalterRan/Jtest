@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [jjlot.github.io](README.md)
 
